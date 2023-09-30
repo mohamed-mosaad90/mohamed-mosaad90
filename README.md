@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=42cef5&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=42cef5&vCenter=true&size=22"></a>
 </p> 
 
 <br />
@@ -14,8 +14,8 @@
   <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
 </p>
 
-- 👨‍💻  I'm a Front End Developer ,I'm learning and exploring new technologies to improve my skills. <br/>
-- 💬 Ask me about my experience with JavaScript, Angular,React, or anything related to web development  <br/>
+- 👨‍💻  I'm a Frontend Developer, learning and exploring new technologies to improve my skills. <br/>
+- 💬 Ask me about my experience with JavaScript, Angular, React, or anything related to web development  <br/>
 - 📧 Reach me anytime: m7smedmossad@gmail.com <br/><br/><br/>
 
 ### Connect with me :
