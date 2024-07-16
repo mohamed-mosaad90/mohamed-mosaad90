@@ -22,10 +22,6 @@
 <p>
  <a href="https://www.linkedin.com/in/mohamed-mosaad-5b3673256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
- </a>
-  <a href="https://www.facebook.com/mohamedmosaad2002/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
- </a> 
 
 </p>
 
