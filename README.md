@@ -42,6 +42,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![TypeScript]
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam405&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
