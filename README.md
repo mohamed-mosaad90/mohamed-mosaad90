@@ -16,7 +16,7 @@
 
 - 👨‍💻  I'm a Frontend Developer, learning and exploring new technologies to improve my skills. <br/>
 - 💬 Ask me about my experience with JavaScript, Angular, React, or anything related to web development  <br/>
-- 📧 Reach me anytime: m7smedmossad@gmail.com <br/><br/><br/>
+- 📧 Reach me anytime: mohamedmosaad1030@gmail.com <br/><br/><br/>
 
 ### Connect with me :
 <p>
